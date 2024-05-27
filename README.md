@@ -5,5 +5,9 @@ This is a simple console game "Rock Paper Sccissors".
 Here is a table with the possible moves:
 ![Table](Rock-paper-scisscors-510px.jpg)
 
-I've use simple console reading methods to take the move form the player and a random move from the computer with the (Random) class in Java.
-The move goes through some "if" checks and then on the console appears if you win, lose or you both have selescted the same move and the game goes to draw.
+I've used a simple console reading methods to get the move from the player and for the move by the computers I've used  the (Random) class in Java.
+
+The move goes through some "if" statements.
+The game ends when the console say of you've won, lost or the game is draw. 
+
+The code is written on Java (IntelliJ IDEA).
